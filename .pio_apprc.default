@@ -1,0 +1,8 @@
+
+# example config file
+# make a copy of this file named ".pio_apprc"
+
+export CONFIG_BAUD_RATE=115200
+
+export CONFIG_WIFI_SSID="my_ssid"
+export CONFIG_WIFI_PASSWORD="my_password"
