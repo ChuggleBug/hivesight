@@ -1,6 +1,7 @@
 
 # example config file
-# make a copy of this file named ".pio_apprc"
+# these envvars must be visible by the builder
+# The best place to pur this i
 
 export CONFIG_BAUD_RATE=115200
 
