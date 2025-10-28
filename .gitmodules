@@ -4,3 +4,6 @@
 [submodule "hivesight_camera"]
 	path = hivesight_camera
 	url = https://github.com/ChuggleBug/hivesight_camera.git
+[submodule "hivesight_coordinator"]
+	path = hivesight_coordinator
+	url = https://github.com/ChuggleBug/hivesight_coordinator.git
