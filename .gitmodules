@@ -10,3 +10,6 @@
 [submodule "hivesight_cloud"]
 	path = hivesight_cloud
 	url = https://github.com/ChuggleBug/hivesight_cloud.git
+[submodule "hivesight_hw_impl"]
+	path = hivesight_hw_impl
+	url = https://github.com/ChuggleBug/hivesight_hw_impl.git
